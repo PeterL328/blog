@@ -1,2 +1,3 @@
 /_site
-.sass-cache2/
+.sass-cache
+_sass/.sass-cache
