@@ -18,3 +18,12 @@
   url: https://github.com/PeterL328/SnakeRobot
   image: /images/snake.png
   completed: true
+- title: TreeChat
+  url: https://github.com/PeterL328/TreeChat
+  image: /images/treechat.jpg
+  completed: true
+- title: Track Your Boom
+  url: https://github.com/peterpogorski/nasalowboom
+  image: /images/trackyourboom.png
+  completed: true
+
