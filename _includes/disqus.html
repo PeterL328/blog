@@ -1,0 +1,31 @@
+{% if page.comments %}
+<style scoped>
+#disqus_thread {
+  display: block;
+  padding: 0 60px;
+  padding-bottom: 30px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+@media (max-width: 640px) {
+  #disqus_thread {
+    padding: 20px;
+  }
+}
+</style>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_config = function () {
+    this.page.url = "http://peterleng.com{{ page.url }}";
+    this.page.identifier = "{{ page.id }}";
+};
+
+(function() {
+    var d = document, s = d.createElement('script');
+    s.src = '//peterleng.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
