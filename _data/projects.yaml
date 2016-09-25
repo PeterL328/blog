@@ -26,4 +26,13 @@
   url: https://github.com/peterpogorski/nasalowboom
   image: /images/trackyourboom.png
   completed: true
+- title: Gravity Ball
+  url: https://github.com/PeterL328/Gravity-ball
+  image: /images/gravityball.png
+  completed: true
+- title: Hexapod
+  url: https://youtu.be/OJfG224C3zo
+  image: /images/hexapod.png
+  completed: true
+
 
