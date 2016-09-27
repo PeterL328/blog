@@ -2,15 +2,15 @@
   url: https://github.com/PeterL328/Enigma
   image: /images/enigma.jpg
   completed: true
-- title: Voice cook
+- title: Voice cook - Web App
   url: https://github.com/PeterL328/VoiceCook
   image: /images/voice.jpeg
   completed: true
-- title: Mobile Sleep Doctor
+- title: Mobile Sleep Doctor - Kinect App
   url: https://github.com/PeterL328/MobileSleepDoctor
   image: /images/mobile-sleep-doctor.png
   completed: true
-- title: Mobile Neck Doctor
+- title: Mobile Neck Doctor - Kinect App
   url: https://github.com/PeterL328/MobileNeckDoctor
   image: /images/mobile-neck-doctor.png
   completed: true
@@ -18,15 +18,15 @@
   url: https://github.com/PeterL328/SnakeRobot
   image: /images/snake.png
   completed: true
-- title: TreeChat
+- title: TreeChat - Web App
   url: https://github.com/PeterL328/TreeChat
   image: /images/treechat.jpg
   completed: true
-- title: Track Your Boom
+- title: Track Your Boom - Android App
   url: https://github.com/peterpogorski/nasalowboom
   image: /images/trackyourboom.png
   completed: true
-- title: Gravity Ball
+- title: Gravity Ball - iOS/Android App
   url: https://github.com/PeterL328/Gravity-ball
   image: /images/gravityball.png
   completed: true
