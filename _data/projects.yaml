@@ -11,7 +11,7 @@
   image: /images/mobile-sleep-doctor.png
   completed: true
 - title: Mobile Neck Doctor - Kinect App
-  url: https://github.com/PeterL328/MobileNeckDoctor
+  url: https://github.com/yidingalan/Neck-Doctor
   image: /images/mobile-neck-doctor.png
   completed: true
 - title: SnakeBot
