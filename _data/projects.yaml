@@ -34,5 +34,7 @@
   url: https://youtu.be/OJfG224C3zo
   image: /images/hexapod.png
   completed: true
-
-
+- title: AI-Draw
+  url: https://github.com/PeterL328/AI-Draw
+  image: /images/ai-draw.png
+  completed: true
